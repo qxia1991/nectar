@@ -1,4 +1,0 @@
-/Users/qingxia/Documents/Physics/GEANT4/geant4-SNe/build/CMakeFiles/sim.dir
-/Users/qingxia/Documents/Physics/GEANT4/geant4-SNe/build/CMakeFiles/SNe.dir
-/Users/qingxia/Documents/Physics/GEANT4/geant4-SNe/build/CMakeFiles/edit_cache.dir
-/Users/qingxia/Documents/Physics/GEANT4/geant4-SNe/build/CMakeFiles/rebuild_cache.dir
