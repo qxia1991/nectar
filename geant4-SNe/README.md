@@ -1,4 +1,4 @@
-# Simulating Energy Deposit in Solid Ne from Calibration Sources (AmBe for now)
+# Simulating Energy Deposit in Solid Ne from Calibration Sources (AmBe)
 
 To run the pacakge, you will need to intall geant4.11 first:
 1. Download geant4 source code from https://geant4.web.cern.ch/download/11.3.2.html
