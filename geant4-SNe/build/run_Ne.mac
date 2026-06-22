@@ -1,0 +1,6 @@
+/analysis/setFileName SNe_AmBe_3cm_cylinder_ELonly
+/analysis/ntuple/setFileName 0 SNe_AmBe_3cm_cylinder_ELonly
+/run/numberOfThreads 1
+/run/initialize
+/run/beamOn 100000
+

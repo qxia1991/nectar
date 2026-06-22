@@ -1,0 +1,8 @@
+/analysis/setFileName SNe_AmBe_3cm_cube
+/analysis/ntuple/setFileName 0 SNe_AmBe_3cm_cube
+#/analysis/setFileName LXe_AmBe
+#/analysis/ntuple/setFileName 0 LXe_AmBe
+/run/numberOfThreads 4
+/run/initialize
+/run/beamOn 100000
+
