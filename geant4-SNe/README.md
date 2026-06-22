@@ -1,4 +1,5 @@
-# Calibration Simulations in Solid Neon (AmBe)
+# Simulations in Solid Neon 
+Right now the code is simulating events from an AmBe calibraiton source
 
 To run the pacakge, you will need to intall geant4.11 first:
 1. Download geant4 source code from https://geant4.web.cern.ch/download/11.3.2.html
